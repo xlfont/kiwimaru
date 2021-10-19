@@ -1,0 +1,20 @@
+- name: Kiwi Maru
+  displayname: キウイ 丸
+  category: sans serif
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/KiwiMaru-Light
+        codes: 8318
+        weight: 300
+        xfl: true
+      - filename: dist/KiwiMaru-Regular
+        codes: 8318
+        weight: 400
+        xfl: true
+      - filename: dist/KiwiMaru-Medium
+        codes: 8318
+        weight: 500
+        xfl: true
